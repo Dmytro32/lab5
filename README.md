@@ -20,5 +20,5 @@ sudo docker-compose up
 ```
 sudo docker-compose down
 ```
-8. Push docker-compose to Docker
+8. Push docker-compose to Docker https://hub.docker.com/repository/docker/dmytro32/lab5
 9. Create docker for lab4 and push in it's repositoriy
